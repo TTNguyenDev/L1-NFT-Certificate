@@ -1,0 +1,1 @@
+/Users/trietnguyen/Documents/Blockchain\ Development/NEAR\ OCT/phucngo/near-nft-certificate/near-nft-cert/contract/target/wasm32-unknown-unknown/release/greeter.wasm: /Users/trietnguyen/Documents/Blockchain\ Development/NEAR\ OCT/phucngo/near-nft-certificate/near-nft-cert/contract/src/lib.rs

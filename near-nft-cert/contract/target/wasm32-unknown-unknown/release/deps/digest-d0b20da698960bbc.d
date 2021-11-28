@@ -1,0 +1,10 @@
+/Users/trietnguyen/Documents/Blockchain Development/NEAR OCT/phucngo/near-nft-certificate/near-nft-cert/contract/target/wasm32-unknown-unknown/release/deps/digest-d0b20da698960bbc.rmeta: /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/lib.rs /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/digest.rs /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/dyn_digest.rs /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/errors.rs
+
+/Users/trietnguyen/Documents/Blockchain Development/NEAR OCT/phucngo/near-nft-certificate/near-nft-cert/contract/target/wasm32-unknown-unknown/release/deps/libdigest-d0b20da698960bbc.rlib: /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/lib.rs /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/digest.rs /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/dyn_digest.rs /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/errors.rs
+
+/Users/trietnguyen/Documents/Blockchain Development/NEAR OCT/phucngo/near-nft-certificate/near-nft-cert/contract/target/wasm32-unknown-unknown/release/deps/digest-d0b20da698960bbc.d: /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/lib.rs /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/digest.rs /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/dyn_digest.rs /Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/errors.rs
+
+/Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/lib.rs:
+/Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/digest.rs:
+/Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/dyn_digest.rs:
+/Users/trietnguyen/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.8.1/src/errors.rs:

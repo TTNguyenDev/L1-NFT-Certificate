@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/trietnguyen/Documents/Blockchain Development/NEAR OCT/phucngo/near-nft-certificate/near-nft-cert/contract/target/wasm32-unknown-unknown/release/build/typenum-88296f0e5fbad51f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/trietnguyen/Documents/Blockchain Development/NEAR OCT/phucngo/near-nft-certificate/near-nft-cert/contract/target/wasm32-unknown-unknown/release/build/typenum-88296f0e5fbad51f/out/op.rs
